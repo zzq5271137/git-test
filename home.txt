@@ -1,4 +1,8 @@
 user1修改home.txt
 user2修改home.txt
 
+<<<<<<< HEAD
 user2第二次修改
+=======
+user1第二次修改
+>>>>>>> 9059f7382b3dfa0a3922178b2e676c688c167801
